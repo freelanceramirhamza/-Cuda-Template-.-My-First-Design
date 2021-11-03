@@ -1,0 +1,72 @@
+@media only screen and (max-width: 1280px){
+
+    .portfolio-boxes .box img{
+        width: 85%;
+
+    }
+    .header-bottom h2{
+        font-size: 27px;
+        line-height: 27px;
+    }
+    .top-1{
+        display: none;
+        
+    }
+    .extarnal{
+        display: block;
+    }
+}
+
+
+
+@media only screen and (max-width: 991px){
+
+    .services-boxes .box{
+        margin: 35px 0px;
+    }
+
+    .team-boxes .box{
+        margin: 35px 0px;
+    }
+    .skill-boxes .box{
+        margin: 35px 0px;
+    }
+    .about-boxes .box .content{
+        margin: auto;
+    }
+    .header-bottom h2{
+        font-size: 27px;
+        line-height: 30px;
+    }
+    .about-boxes .box .pic{
+        float: none;
+        margin: auto;
+    }
+    .portfolio-boxes .box{
+        width: 420px;
+
+    }
+    .portfolio-boxes .box img{
+        width: 80%;
+    }
+}
+@media only screen and (max-width: 790px){
+    .header-bottom h2{
+        font-size: 17px;
+        line-height: 26px;
+    }
+    
+
+
+}
+@media only screen and (max-width: 500px){
+    .header-bottom h2{
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .about-boxes .box .content{
+        width: 325px;
+    }
+
+
+}
